@@ -1,0 +1,50 @@
+# Thông tin section
+section:
+  name: Giới thiệu
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# Chức danh của bạn
+designation: Chuyên viên IT Operations Cao cấp
+# Thông tin công ty
+company:
+  name: OCB (Ngân hàng TMCP Phương Đông)
+  url: "https://www.ocb.com.vn/"
+
+# Tóm tắt về bạn
+summary: 'Chuyên gia Hạ tầng IT với hơn 16 năm kinh nghiệm trong môi trường ngân hàng và doanh nghiệp. Chuyên môn mạnh về quản trị hệ thống, ảo hóa, mạng, bảo mật và vận hành dịch vụ IT. Có khả năng lãnh đạo nhóm, triển khai ITIL/ITSM, tối ưu hóa hạ tầng và tự động hóa để cải thiện tính ổn định của hệ thống và hiệu quả vận hành.'
+
+# Liên kết mạng xã hội
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "thien.nguyenvietchi@gmail.com"
+
+- name: Điện thoại
+  icon: "fas fa-phone"
+  url: "+84 938 424440"
+
+# Nút download tài liệu
+resourceLinks:
+- title: "Tải CV"
+  url: "cv.pdf"
+
+# Hiển thị các kỹ năng mềm
+badges:
+- type: soft-skill-indicator
+  name: Lãnh đạo
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Quản lý sự cố
+  percentage: 85
+  color: green
+
+- type: soft-skill-indicator
+  name: Làm việc nhóm
+  percentage: 90
+  color: orange

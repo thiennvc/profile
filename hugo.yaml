@@ -20,6 +20,11 @@ languages:
     languageName: English
     title: "Nguyen Viet Chi Thien"
     weight: 1
+  vi:
+    languageCode: vi
+    languageName: Tiếng Việt
+    title: "Nguyễn Việt Chí Thiện"
+    weight: 2
 
 defaultContentLanguage: en
 markup:
