@@ -1,7 +1,11 @@
-.vscode/
-node_modules/
-.DS_Store
-.history/
-resources/
-public/
+public
+resources
 .hugo_build.lock
+node_modules
+hugo_bin
+node_bin
+hugo_extended.zip
+node.zip
+node_installer.msi
+.DS_Store
+Thumbs.db
