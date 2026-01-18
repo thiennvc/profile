@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  filter: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: OS
+  filter: "os"
+- name: Virtualization
+  filter: "virtualization"
+- name: Networking
+  filter: "networking"
+- name: Management
+  filter: "management"
+- name: Scripting
+  filter: "scripting"
+
+# Your Skills.
+skills:
+- name: Windows Server / Client
+  summary: "Windows Server 2012–2022, Windows 10, 11."
+  categories: ["os"]
+
+- name: MacOS
+  summary: "Operating System management."
+  categories: ["os"]
+
+- name: Linux (Ubuntu, CentOS, Redhat)
+  summary: "Strong command of Linux environments for enterprise servers."
+  categories: ["os"]
+
+- name: Virtualization (VMware, Proxmox, Hyper-V)
+  summary: "Managing ESXi, vCenter, vMotion, vSAN, clusters, Proxmox, Hyper-V."
+  categories: ["virtualization"]
+
+- name: Microsoft Azure
+  summary: "Cloud infrastructure management and deployment."
+  categories: ["virtualization"]
+
+- name: Cisco / Fortigate / DrayTek
+  summary: "Network infrastructure management including Firewalls, VPN, and Load Balancers."
+  categories: ["networking"]
+
+- name: SAN / NAS Storage
+  summary: "Dell EMC, Synology, QNAP management."
+  categories: ["networking"]
+
+- name: ManageEngine Suite
+  summary: "AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central."
+  categories: ["management"]
+
+- name: PowerShell / Bash
+  summary: "Automation of daily tasks, reporting, health checks, and patching."
+  categories: ["scripting"]
+
+- name: Leadership
+  summary: "Team management, ITIL/ITSM process implementation, incident management, cross-department communication."
+  categories: ["management"]

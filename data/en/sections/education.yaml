@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Bachelor of Computer Science
+  icon: fa-graduation-cap
+  # timeframe: 
+  institution:
+    name: Ho Chi Minh City Open University
+    url: "#"
+    # logo: /images/sections/education/university.jpg
+
+- name: NIIT College
+  icon: fa-university
+  institution:
+    name: NIIT
+    url: "#"
+
+- name: Professional Certifications
+  icon: fa-certificate
+  institution:
+    name: Various Institutions
+  extracurricularActivities:
+  - Microsoft MCSA / MCSE
+  - Linux LPIC-1
+  - ManageEngine Endpoint Central
+  - Other infrastructure-related certifications

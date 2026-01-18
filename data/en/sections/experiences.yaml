@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+# Your experiences
+experiences:
+- company:
+    name: OCB (Orient Commercial Joint Stock Bank)
+    url: "#"
+    location: Ho Chi Minh City
+    # logo: /images/sections/experiences/ocb.jpg
+    overview: Banking | 10,000+ employees
+  positions:
+  - designation: Senior IT Operations Specialist
+    start: 2017
+    # end: Present # automatically handled if omitted
+    responsibilities:
+    - Manage and operate enterprise IT infrastructure across headquarters and branches.
+    - Administer Microsoft platforms (AD, GPO, DNS, DHCP, Exchange, IIS, SharePoint, MS 365, Lync).
+    - Operate ManageEngine suite (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management).
+    - Manage virtualization platforms (VMware ESXi, vCenter, vMotion, vSAN, clusters) and SAN/NAS systems.
+    - Manage network infrastructure (LAN/WAN, Firewalls, VPN, Wi-Fi, Access Control, CCTV, VoIP).
+    - Ensure data protection with Veeam, Veritas, Tape backup solutions.
+    - Lead IT Service & Support team (task assignment, performance review, training, escalation handling).
+    - Manage IT asset lifecycle, vendor evaluation, procurement, and annual infrastructure budget.
+    - Design and implement high-availability, monitoring, and performance optimization solutions.
+    - Experience with deployment and operational support for Redis, Jenkins, and Git for internal banking systems.
+    - Develop automation using PowerShell & Bash for daily reports, health checks, and patching.
+    - "Key Achievement: 99.9% system uptime for core banking support systems."
+    - "Key Achievement: Implemented automation for system operations and patch management."
+    - "Key Achievement: Optimized annual IT infrastructure operating costs while maintaining service quality."
+
+- company:
+    name: Dat Viet VAC Media Corporation
+    url: "#"
+    location: Ho Chi Minh City
+    overview: Media & Entertainment
+  positions:
+  - designation: IT Specialist
+    start: 2010
+    end: 2017
+    responsibilities:
+    - Administered Active Directory, Email systems, Wi-Fi, Panasonic PBX, CCTV.
+    - Operated and maintained network infrastructure for head office and branch offices.
+    - Provided end-user IT support and incident troubleshooting.
+    - Participated in infrastructure and system deployment projects.
+
+- company:
+    name: Nam Viet Corporation
+    url: "#"
+    location: Ho Chi Minh City
+  positions:
+  - designation: IT Staff
+    start: 2007
+    end: 2010
+    responsibilities:
+    - Administered AD, File Server, Database, MDaemon Mail Server.
+    - Deployed and maintained internal company websites.
+    - Managed IT assets, procurement, and periodic system maintenance.

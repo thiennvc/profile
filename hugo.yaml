@@ -1,25 +1,125 @@
+﻿baseURL: "https://profile-6z0.pages.dev"
+languageCode: en-us
+title: "Nguyen Viet Chi Thien"
 module:
-  hugoVersion:
-    min: "0.146.0"
-    extended: true
+  imports:
+    - path: github.com/hugo-toha/toha/v4
   mounts:
-  - source: content
-    target: content
-  - source: static
-    target: static
-  - source: layouts
-    target: layouts
-  - source: data
-    target: data
-  - source: assets
-    target: assets
-  - source: i18n
-    target: i18n
-  - source: archetypes
-    target: archetypes
-  - source: ../../node_modules/flag-icons/flags
-    target: static/flags
-  - source: ../../node_modules/@fontsource/mulish/files
-    target: static/files
-  - source: ../../node_modules/katex/dist/fonts
-    target: static/fonts
+    - source: static/files
+      target: static/files
+    - source: ./node_modules/flag-icons/flags
+      target: static/flags
+    - source: ./node_modules/@fontsource/mulish/files
+      target: static/files
+    - source: ./node_modules/katex/dist/fonts
+      target: static/fonts
+
+languages:
+  en:
+    languageCode: en
+    languageName: English
+    title: "Nguyen Viet Chi Thien"
+    weight: 1
+
+defaultContentLanguage: en
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
+params:
+  # Changed from absolute path to allow flexible deployment
+  background: images/site/background.jpg
+  logo:
+    main: images/site/main-logo.png
+    inverted: images/site/inverted-logo.png
+    favicon: images/site/favicon.png
+  
+  gitRepo: https://github.com/thiennvc/profile
+  gitBranch: main
+
+  topNavbar:
+    maxVisibleSections: 5
+
+  features:
+    theme:
+      enable: true
+      services:
+        light: true
+        dark: true
+        default: system
+    portfolio:
+      enable: true
+    blog:
+      enable: true
+      showAuthor: true
+      shareButtons:
+        facebook: true
+        linkedin: true
+        email: true
+    notes:
+      enable: true
+    comment:
+      enable: false
+    analytics:
+      enable: false
+    support:
+      enable: false
+    toc:
+      enable: true
+    tags:
+      enable: true
+      on_card: true
+    flags:
+      enable: true
+    embedpdf:
+      enable: true
+    flowchart:
+      enable: true
+      services:
+        mermaid:
+          theme: default
+          darkTheme: dark
+    math:
+      enable: true
+    syntaxHighlight:
+      enable: true
+    videoPlayer:
+      enable: true
+    copyCodeButton:
+      enable: true
+    readingTime:
+      enable: false
+    pagination:
+      maxPostsPerPage: 12
+
+  footer:
+    enable: true
+    template: footer.html
+    navigation:
+      enable: true
+      customMenus: true
+    contactMe:
+      enable: true
+    credentials:
+      enable: true
+    newsletter:
+      enable: false
+    disclaimer:
+      enable: true

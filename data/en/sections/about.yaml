@@ -1,0 +1,50 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior IT Operations Specialist
+# your company information
+company:
+  name: OCB (Orient Commercial Joint Stock Bank)
+  url: "https://www.ocb.com.vn/"
+
+# a summary about you
+summary: 'IT Infrastructure professional with 16+ years of experience in banking and enterprise environments. Strong expertise in system administration, virtualization, networking, security, and IT service operations. Proven ability in team leadership, ITIL/ITSM implementation, infrastructure optimization, and automation to improve system stability and operational efficiency.'
+
+# your social links
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "thien.nguyenvietchi@gmail.com"
+
+- name: Phone
+  icon: "fas fa-phone"
+  url: "+84 938 424440"
+
+# You can put custom buttons to link your relevant resources.
+resourceLinks:
+- title: "Download CV"
+  url: "cv.pdf"
+
+# Show your badges
+badges:
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 90
+  color: blue
+
+- type: soft-skill-indicator
+  name: Incident Mgt
+  percentage: 85
+  color: green
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: orange
