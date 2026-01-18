@@ -8,7 +8,8 @@ image: "images/author/profile.jpg"
 contactInfo:
   email: "thien.nguyenvietchi@gmail.com"
   phone: "+84 938 424440"
-  location: "31/7 Quang Trung, P. TTH, TP.HCM"
+  Linkedin: "https://www.linkedin.com/in/nguyen-viet-chi-thien-357751102/".
+  Github: "https://github.com/thiennvc"
 
 # Mô tả ngắn về bạn
 summary:
