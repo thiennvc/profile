@@ -1,6 +1,6 @@
 # Thông tin về bạn
-name: "NGUYỄN VIỆT CHÍ THIỆN"
-nickname: "Thiện"
+name: "NGUYỄN VIẾT CHÍ THIỆN"
+nickname: "Luke Nguyễn"
 # Lời chào trước tên. Mặc định là "Hi! I am" nếu không cung cấp
 greeting: "Xin chào, tôi là"
 image: "images/author/profile.jpg"
@@ -8,10 +8,10 @@ image: "images/author/profile.jpg"
 contactInfo:
   email: "thien.nguyenvietchi@gmail.com"
   phone: "+84 938 424440"
-  location: "31/7 Quang Trung, P. Trường Thọ, TP.HCM"
+  location: "31/7 Quang Trung, P. TTH, TP.HCM"
 
 # Mô tả ngắn về bạn
 summary:
   - Chuyên viên IT Operations cao cấp với hơn 16 năm kinh nghiệm.
-  - Chuyên môn mạnh về quản trị hệ thống, ảo hóa, mạng, bảo mật.
+  - Chuyên môn mạnh về quản trị vận hành hệ thống, ảo hóa, mạng, bảo mật.
   - Khả năng lãnh đạo nhóm, triển khai ITIL/ITSM, tối ưu hạ tầng và tự động hóa đã được chứng minh.
