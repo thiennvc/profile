@@ -33,7 +33,7 @@ projects:
 - name: ManageEngine Services Desk Plus
   role: Team Lead
   timeline: "Sep 2019 - Oct 2020"
-  url: "https://hotro.m-ocb.com.vn"
+  #url: "https://hotro.m-ocb.com.vn"
   summary: Compile catalogs and SLAs, perform functional test cases, monitor request processing, and configure system features.
   tags: ["admin","monitor","compliance"]
 
