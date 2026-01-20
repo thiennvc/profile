@@ -20,12 +20,12 @@ experiences:
     # end: Present # automatically handled if omitted
     responsibilities:
     - Manage and operate enterprise IT infrastructure across headquarters and branches.
-    - Administer Microsoft platforms (AD, GPO, DNS, DHCP, Exchange, IIS, SharePoint, MS 365, Lync).
+    - Administer Microsoft Server platforms (AD, GPO, DNS, DHCP, Exchange, IIS, SharePoint, MS365, Lync).
     - Operate ManageEngine suite (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management).
     - Manage virtualization platforms (VMware ESXi, vCenter, vMotion, vSAN, clusters) and SAN/NAS systems.
     - Manage network infrastructure (LAN/WAN, Firewalls, VPN, Wi-Fi, Access Control, CCTV, VoIP).
     - Ensure data protection with Veeam, Veritas, Tape backup solutions.
-    - Lead IT Service & Support team (task assignment, performance review, training, escalation handling).
+    - Lead IT Service & Support team > 5 Engineers (task assignment, performance review, training, escalation handling).
     - Manage IT asset lifecycle, vendor evaluation, procurement, and annual infrastructure budget.
     - Design and implement high-availability, monitoring, and performance optimization solutions.
     - Experience with deployment and operational support for Redis, Jenkins, and Git for internal banking systems.
