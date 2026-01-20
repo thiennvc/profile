@@ -9,11 +9,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    logo: /images/sections/experiences/ocb.png
+    logo: "/images/sections/experiences/ocb.png"
     name: OCB (Orient Commercial Joint Stock Bank)
     url: "#"
     location: Ho Chi Minh City
-    # logo: /images/sections/experiences/ocb.jpg
+    # logo: "/images/sections/experiences/ocb.jpg"
     overview: Banking | 10,000+ employees
   positions:
   - designation: Senior IT Operations Specialist
@@ -36,7 +36,7 @@ experiences:
     - "Key Achievement: Optimized annual IT infrastructure operating costs while maintaining service quality."
 
 - company:
-    logo: /images/sections/experiences/datviet.png
+    logo: "/images/sections/experiences/datviet.png"
     name: Dat Viet VAC Media Corporation
     url: "#"
     location: Ho Chi Minh City
