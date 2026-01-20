@@ -42,5 +42,5 @@ projects:
   role: Admin
   timeline: "Sep 2021 - Dec 2021"
   #url: ""
-  summary: Building asset management processes, installing and deploying the system on the Ubuntu Docker platform, setting up asset functions, establishing asset catalogs, importing data, assigning user permissions, backing up the system, etc.
+  summary: Building asset management, install and deploy the system on the Ubuntu/Redhat Docker platform, setup up asset functions, establish asset cataloge, import data, grant user permissions, backup the system, etc.
   tags: ["admin", "compliance","design"]
