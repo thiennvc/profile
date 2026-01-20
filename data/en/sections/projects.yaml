@@ -37,20 +37,19 @@ projects:
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Configure and deploy systems such as Redis, Kafka, API extension systems, deploy/update Pods services on Jenkins, etc.
-  tags: ["professional", "machine-learning"]
+  tags: ["Dev", "Operation"]
 
 - name: ManageEngine Services Desk Plus
   role: Team Lead
   timeline: "Sep 2019 - Oct 2020"
   url: "https://hotro.m-ocb.com.vn"
   summary: Compile catalogs and SLAs, perform functional test cases, monitor request processing, and configure system features.
-  tags: ["academic","iot"]
+  tags: ["admin","monitor","compliance"]
 
-- name: Nocode
+- name: Asset management
   logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+  role: Admin
+  timeline: "Sep 2021 - Dec 2021"
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: Building asset management processes, installing and deploying the system on the Ubuntu Docker platform, setting up asset functions, establishing asset catalogs, importing data, assigning user permissions, backing up the system, etc.
+  tags: ["admin", "compliance","design"]
