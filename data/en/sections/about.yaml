@@ -23,10 +23,10 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "thien.nguyenvietchi@gmail.com"
 - name: Linkedin
-  icon: "fas fa-linkedin"
+  icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/nguyen-viet-chi-thien-357751102/"
 - name: Github
-  icon: "fas fa-github"
+  icon: "fab fa-github"
   url: "https://github.com/thiennvc"
 - name: Phone
   icon: "fas fa-phone"
