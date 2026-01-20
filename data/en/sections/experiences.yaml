@@ -9,7 +9,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    icon: "https://cdn.haitrieu.com/wp-content/uploads/2022/02/Icon-OCB.png"
+    logo: /images/sections/experiences/ocb.png
     name: OCB (Orient Commercial Joint Stock Bank)
     url: "#"
     location: Ho Chi Minh City
@@ -36,6 +36,7 @@ experiences:
     - "Key Achievement: Optimized annual IT infrastructure operating costs while maintaining service quality."
 
 - company:
+    logo: /images/sections/experiences/datviet.png
     name: Dat Viet VAC Media Corporation
     url: "#"
     location: Ho Chi Minh City
