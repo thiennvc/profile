@@ -30,20 +30,20 @@ projects:
   summary: Production-Grade Container Scheduling and Management.
   tags: ["professional", "kubernetes", "cloud"]
 
-- name: Tensorflow
+- name: Flexsaving  NeoCD
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
+  role: DevOpt
+  timeline: "Dec 2026 - Present"
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
+  summary: Cấu hình triển khai các hệ thống như: Redis, Kafka, hệ thống API ext, deploy/update version Pods services on Jenkins...
   tags: ["professional", "machine-learning"]
 
-- name: A sample academic paper
+- name: ManageEngine Services Desk Plus
   role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+  timeline: "Sep 2019 - Oct 2020"
+  url: "https://hotro.m-ocb.com.vn"
+  summary: Compile catalogs and SLAs, perform functional test cases, monitor request processing, and configure system features.
   tags: ["academic","iot"]
 
 - name: Nocode
