@@ -36,7 +36,7 @@ projects:
   timeline: "Dec 2026 - Present"
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Cấu hình triển khai các hệ thống như: Redis, Kafka, hệ thống API ext, deploy/update version Pods services on Jenkins...
+  summary: Configure and deploy systems such as Redis, Kafka, API extension systems, deploy/update Pods services on Jenkins, etc.
   tags: ["professional", "machine-learning"]
 
 - name: ManageEngine Services Desk Plus
