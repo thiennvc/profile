@@ -9,7 +9,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    logo: "/images/sections/experiences/ocb.png"
+    logo: "/profile/data/en/sections/ocb.png"
     name: OCB (Orient Commercial Joint Stock Bank)
     url: "#"
     location: Ho Chi Minh City
@@ -36,7 +36,7 @@ experiences:
     - "Key Achievement: Optimized annual IT infrastructure operating costs while maintaining service quality."
 
 - company:
-    logo: "/images/sections/experiences/datviet.png"
+    logo: "/profile/data/en/sections/datviet.png"
     name: Dat Viet VAC Media Corporation
     url: "#"
     location: Ho Chi Minh City
