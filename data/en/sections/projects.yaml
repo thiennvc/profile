@@ -25,7 +25,7 @@ projects:
   logo: /images/sections/projects/tensorflow.png
   role: DevOpt
   timeline: "Dec 2026 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  #repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: Configure and deploy systems such as Redis, Kafka, API extension systems, deploy/update Pods services on Jenkins, etc.
   tags: ["Dev", "Operation"]
