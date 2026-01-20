@@ -22,14 +22,19 @@ socialLinks:
 - name: Email
   icon: "fas fa-envelope"
   url: "thien.nguyenvietchi@gmail.com"
-
+- name: Linkedin
+  icon: "fas fa-linkedin"
+  url: "https://www.linkedin.com/in/nguyen-viet-chi-thien-357751102/"
+- name: Github
+  icon: "fas fa-github"
+  url: "https://github.com/thiennvc"
 - name: Phone
   icon: "fas fa-phone"
   url: "+84 938 424440"
 
 # You can put custom buttons to link your relevant resources.
 resourceLinks:
-- title: "Download CV"
+- title: "My Resume"
   url: "cv.pdf"
 
 # Show your badges
