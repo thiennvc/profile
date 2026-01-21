@@ -9,7 +9,7 @@ section:
 # Your experiences
 experiences:
 - company:
-    company-logo: "/images/sections/experiences/ocb.jpg"
+    logo: "/images/sections/experiences/ocb.jpg"
     name: OCB (Orient Commercial Joint Stock Bank)
     url: "#"
     location: Ho Chi Minh City
