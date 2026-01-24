@@ -45,7 +45,7 @@ badges:
   color: blue
 
 - type: soft-skill-indicator
-  name: Incident Mgt
+  name: Problem solving
   percentage: 85
   color: green
 
@@ -53,3 +53,18 @@ badges:
   name: Team Work
   percentage: 90
   color: orange
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: Gray
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: Yellow
+
+- type: soft-skill-indicator
+  name: Research
+  percentage: 90
+  color: Pink
