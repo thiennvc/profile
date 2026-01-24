@@ -1,30 +1,19 @@
-# Thông tin section
-section:
-  name: Kinh nghiệm
-  id: experiences
-  enable: true
-  weight: 3
-  showOnNavbar: true
-  # template: sections/experiences.html
-
-# Danh sách kinh nghiệm làm việc
 experiences:
 - company:
     logo: "/images/sections/experiences/ocb.jpg"
     name: Ngân hàng TMCP Phương Đông OCB
     url: "https://www.ocb.com.vn/"
     location: TP. Hồ Chí Minh
-    # darkLogo: /images/companies/ocb.png
   positions:
   - designation: Chuyên viên IT Operations Cao cấp
-    start: 2023
-    end: Hiện tại
+    start: "Tháng 2 2023"
+    end: "Hiện tại"
     responsibilities:
-    - Quản lý và vận hành hạ tầng IT banking (Servers, Storage, Virtualization, Backup).
-    - Lãnh đạo nhóm IT Ops đảm bảo vận hành hệ thống 24/7 với SLA cao.
-    - Triển khai giải pháp ITSM/ITIL để tối ưu quy trình incident, problem, change management.
-    - Tự động hóa các tác vụ vận hành bằng scripting và công cụ monitoring.
-    - Phối hợp với các bộ phận khác trong các dự án nâng cấp hạ tầng và migration.
+      - Quản lý và vận hành hạ tầng IT banking (Servers, Storage, Virtualization, Backup).
+      - Lãnh đạo nhóm IT Ops đảm bảo vận hành hệ thống 24/7 với SLA cao.
+      - Triển khai giải pháp ITSM/ITIL để tối ưu quy trình incident, problem, change management.
+      - Tự động hóa các tác vụ vận hành bằng scripting và công cụ monitoring.
+      - Phối hợp với các bộ phận khác trong các dự án nâng cấp hạ tầng và migration.
 
 - company:
     logo: "/images/sections/experiences/datviet.jpg"
@@ -32,23 +21,23 @@ experiences:
     url: "https://datvietvac.vn"
     location: TP. Hồ Chí Minh
   positions:
-  - designation: IT Sepecialist
-    start: 2010
-    end: 2017
+  - designation: IT Manager
+    start: "Tháng 1 2015"
+    end: "Tháng 12 2022"
     responsibilities:
-    - Quản lý đội ngũ IT gồm 10 thành viên.
-    - Xây dựng và duy trì hạ tầng IT cho toàn công ty.
-    - Đảm bảo an ninh mạng và backup dữ liệu.
-    
+      - Quản lý đội ngũ IT gồm 10 thành viên.
+      - Xây dựng và duy trì hạ tầng IT cho toàn công ty.
+      - Đảm bảo an ninh mạng và backup dữ liệu.
+
 - company:
     logo: "/images/sections/experiences/namviet.jpg"
     name: Công ty cổ phần Nam Việt
     location: TP. Hồ Chí Minh
   positions:
   - designation: Nhân viên IT
-    start: 2008
-    end: 2010
+    start: "Tháng 6/2008"
+    end: "Tháng 9/2010"
     responsibilities:
-    - Quản trị hệ thống Windows Server và Linux.
-    - Triển khai và vận hành VMware vSphere.
-    - Hỗ trợ người dùng và khắc phục sự cố kỹ thuật.
+      - Quản trị hệ thống Windows Server và Linux.
+      - Triển khai và vận hành VMware vSphere.
+      - Hỗ trợ người dùng và khắc phục sự cố kỹ thuật.
