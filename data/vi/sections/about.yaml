@@ -51,6 +51,6 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Quản lý
+  name: Quản lý nhóm
   percentage: 90
   color: orange
