@@ -39,17 +39,12 @@ experiences:
     - Quản lý đội ngũ IT gồm 10 thành viên.
     - Xây dựng và duy trì hạ tầng IT cho toàn công ty.
     - Đảm bảo an ninh mạng và backup dữ liệu.
-  
-  - designation: System Administrator
-    start: Tháng 6 2010
-    end: Tháng 12 2014
-    responsibilities:
-    - Quản trị hệ thống Windows Server và Linux.
-    - Triển khai và vận hành VMware vSphere.
-    - Hỗ trợ người dùng và khắc phục sự cố kỹ thuật.
+    
 - company:
     logo: "/images/sections/experiences/namviet.jpg"
     name: Công ty cổ phần Nam Việt
+    location: TP. Hồ Chí Minh
+  positions:
   - designation: Nhân viên IT
     start: Tháng 6/2008 đến tháng 9/2010
     responsibilities:
