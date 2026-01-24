@@ -35,7 +35,7 @@ resourceLinks:
 # Hiển thị các kỹ năng mềm
 badges:
 - type: soft-skill-indicator
-  name: Lãnh đạo
+  name: Nghiên cứu
   percentage: 90
   color: blue
 
@@ -45,6 +45,6 @@ badges:
   color: green
 
 - type: soft-skill-indicator
-  name: Làm việc nhóm
+  name: Quản lý nhóm
   percentage: 90
   color: orange
