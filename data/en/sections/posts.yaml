@@ -1,6 +1,6 @@
 section:
-  name: Recent Posts
-  id: recent-posts
+  name: Posts
+  id: posts
   enable: false          # ← ĐỔI TỪ true → false
   weight: 9
   showOnNavbar: false    # ← ĐỔI TỪ true → false
