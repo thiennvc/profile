@@ -14,36 +14,39 @@ experiences:
     name: Ngân hàng TMCP Phương Đông OCB
     url: "https://www.ocb.com.vn/"
     location: TP. Hồ Chí Minh
-    logo: /images/companies/ocb.png
     # darkLogo: /images/companies/ocb.png
   positions:
-  - designation: Chuyên viên Cao cấp IT Operations
-    start: Tháng 2/2017 đến nay
+  - designation: Chuyên viên IT Operations Cao cấp
+    start: Tháng 2 2023
     end: Hiện tại
     responsibilities:
-    - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
-    - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP,Mail Exchange, IIS web, SharePoint, MS365, Lync...).
-    - Triển khai và vận hành các ứng dụng ManageEngine (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
-    - Quản lý vận hành các nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, cluster) và hệ thống SAN/NAS.
-    - Quản lý vận hành cơ sở hạ tầng mạng (LAN/WAN, tường lửa, VPN, Wi-Fi, Kiểm soát truy cập, CCTV,hệ thống tổng đài VoIP, camera).
-    - Đảm bảo bảo vệ dữ liệu với các giải pháp sao lưu Veeam, Veritas và băng từ.
-    - Quản lý triển khai cập nhật vá lỗi máy chủ, máy trạm định kỳ
-    - Quản lý giám sát nhóm Dịch vụ & Hỗ trợ CNTT >5 người (phân công nhiệm vụ, đánh giá hiệu suất, đào tạo, xử lý sự cố).
-    - Quản lý vòng đời tài sản CNTT, đánh giá nhà cung cấp, mua sắm bảo trì định kỳ và lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
-    - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hóa hiệu suất.
-    - Kinh nghiệm tham gia và triển khai dự án (Redis, kafka, Jenkins và Git, hệ thống xử lý yêu cầu Services Desk, Jira, QLTS asset management, di dời hạ tầng máy chủ...
-    - Phát triển tự động hóa sử dụng PowerShell và script Bash tạo xóa account theo yêu cầu từ HR,tự động các báo cáo hàng ngày, kiểm tra tình trạng hệ thống và cập nhật bản vá.
+    - Quản lý và vận hành hạ tầng IT banking (Servers, Storage, Virtualization, Backup).
+    - Lãnh đạo nhóm IT Ops đảm bảo vận hành hệ thống 24/7 với SLA cao.
+    - Triển khai giải pháp ITSM/ITIL để tối ưu quy trình incident, problem, change management.
+    - Tự động hóa các tác vụ vận hành bằng scripting và công cụ monitoring.
+    - Phối hợp với các bộ phận khác trong các dự án nâng cấp hạ tầng và migration.
+
 - company:
     logo: "/images/sections/experiences/datviet.jpg"
     name: Truyền Thông Đất Việt VAC
     url: "https://datvietvac.vn"
     location: TP. Hồ Chí Minh
-   positions:
-  - designation: Chuyên viên IT
-    start: Tháng 10/2010 đến tháng 12/2017
+  positions:
+  - designation: IT Manager
+    start: Tháng 1 2015
+    end: Tháng 12 2022
     responsibilities:
+    - Quản lý đội ngũ IT gồm 10 thành viên.
     - Xây dựng và duy trì hạ tầng IT cho toàn công ty.
     - Đảm bảo an ninh mạng và backup dữ liệu.
+  
+  - designation: System Administrator
+    start: Tháng 6 2010
+    end: Tháng 12 2014
+    responsibilities:
+    - Quản trị hệ thống Windows Server và Linux.
+    - Triển khai và vận hành VMware vSphere.
+    - Hỗ trợ người dùng và khắc phục sự cố kỹ thuật.
 - company:
     logo: "/images/sections/experiences/namviet.jpg"
     name: Công ty cổ phần Nam Việt
