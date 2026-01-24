@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # Chức danh của bạn
-designation: Chuyên viên IT Operations Cao cấp
+designation: Chuyên viên Cao cấp IT Operations
 # Thông tin công ty
 company:
   name: OCB (Ngân hàng TMCP Phương Đông)
   url: "https://www.ocb.com.vn/"
 
 # Tóm tắt về bạn
-summary: 'Chuyên gia Hạ tầng IT với hơn 16 năm kinh nghiệm trong môi trường ngân hàng và doanh nghiệp. Chuyên môn mạnh về quản trị hệ thống, ảo hóa, mạng, bảo mật và vận hành dịch vụ IT. Có khả năng lãnh đạo nhóm, triển khai ITIL/ITSM, tối ưu hóa hạ tầng và tự động hóa để cải thiện tính ổn định của hệ thống và hiệu quả vận hành.'
+summary: 'Hơn 16 năm kinh nghiệm trong lĩnh vực CNTT tại môi trường ngân hàng và doanh nghiệp. Chuyên môn sâu về vận hành và quản trị hệ thống máy chủ, ảo hóa, hạ tầng dịch vụ CNTT. Có kinh nghiệm quản lý đội nhóm, triển khai các dự án (ITSM, Flexsaving, Asset management, Docker,K8s,Git), tối ưu hóa hạ tầng, tự động hóa quy trình và nâng cao mức ổn định của hệ thống. Định hướng nâng cao hiệu quả vận hành, đảm bảo SLA và hỗ trợ hoạt động kinh doanh an toàn, liên tục.'
 
 # Liên kết mạng xã hội
 socialLinks:
