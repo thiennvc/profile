@@ -20,11 +20,11 @@ experiences:
     - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync...).
     - Triển khai và vận hành các ứng dụng ManageEngine (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
     - Quản lý vận hành các nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, cluster) và hệ thống SAN/NAS.
-    - Quản lý vận hành cơ sở hạ tầng mạng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, VoIP).
-    - Đảm bảo bảo vệ dữ liệu với các giải pháp sao lưu Veeam, Veritas và băng từ.
+    - Quản lý vận hành cơ sở hạ tầng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, Tổng đài VoIP).
+    - Đảm bảo sao lưu dữ liệu định kỳ Veeam, Veritas và băng từ.
     - Quản lý cập nhật vá lỗi máy chủ, máy trạm định kỳ.
-    - Quản lý giám sát nhóm Dịch vụ & Hỗ trợ CNTT (>5 người).
-    - Quản lý vòng đời tài sản CNTT, lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
+    - Quản lý giám sát team Dịch vụ & Hỗ trợ công nghệ (số lượng trên 5 IT).
+    - Quản lý vòng đời/phân bổ/bảo trì tài sản công nghệ, lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
     - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
-    - Tham gia & triển khai dự án (Redis, Kafka, Jenkins, Git, Jira, QLTS, di dời hạ tầng...).
-    - Tự động hóa bằng PowerShell/Bash phục vụ vận hành IT.
+    - Tham gia & triển khai dự án (như: Redis, Kafka, Jenkins, Git,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới...).
+    - Tự động hóa bằng PowerShell/Bash tạo xóa account hệ thống theo yêu cầu từ HR.
