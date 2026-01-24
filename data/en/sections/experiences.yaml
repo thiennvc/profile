@@ -1,5 +1,6 @@
+# section information
 section:
-  name: Kinh nghiệm
+  name: Experiences
   id: experiences
   enable: true
   weight: 3
@@ -7,48 +8,54 @@ section:
 
 experiences:
 - company:
-    name: Ngân hàng TMCP Phương Đông OCB
+    name: OCB (Orient Commercial Joint Stock Bank)
     url: "https://www.ocb.com.vn/"
-    location: TP. Hồ Chí Minh
+    location: Ho Chi Minh city
     logo: "/images/sections/experiences/ocb.jpg"
   positions:
-  - designation: Chuyên viên Cao cấp IT Operations
-    start: Tháng 2/2017 đến nay
-    end: Hiện tại
+  - designation: Senior IT Operations Specialist
+    start: From 2017
+    end: Present
     responsibilities:
-    - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
-    - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync...).
-    - Triển khai và vận hành các ứng dụng ManageEngine (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
-    - Quản lý vận hành các nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, cluster) và hệ thống SAN/NAS.
-    - Quản lý vận hành cơ sở hạ tầng mạng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, VoIP).
-    - Đảm bảo bảo vệ dữ liệu với các giải pháp sao lưu Veeam, Veritas và băng từ.
-    - Quản lý cập nhật vá lỗi máy chủ, máy trạm định kỳ.
-    - Quản lý giám sát nhóm Dịch vụ & Hỗ trợ CNTT (>5 người).
-    - Quản lý vòng đời tài sản CNTT, lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
-    - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
-    - Tham gia & triển khai dự án (Redis, Kafka, Jenkins, Git, Jira, QLTS, di dời hạ tầng...).
-    - Tự động hóa bằng PowerShell/Bash phục vụ vận hành IT.
+    - Manage and operate enterprise IT infrastructure across headquarters and branches.
+    - Administer Microsoft Server platforms (AD, GPO, DNS, DHCP, Exchange, IIS, SharePoint, MS365, Lync).
+    - Operate ManageEngine suite (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management).
+    - Manage virtualization platforms (VMware ESXi, vCenter, vMotion, vSAN, clusters) and SAN/NAS systems.
+    - Manage network infrastructure (LAN/WAN, Firewalls, VPN, Wi-Fi, Access Control, CCTV, VoIP).
+    - Ensure data protection with Veeam, Veritas, Tape backup solutions.
+    - Lead IT Service & Support team > 5 Engineers (task assignment, performance review, training, escalation handling).
+    - Manage IT asset lifecycle, vendor evaluation, procurement, and annual infrastructure budget.
+    - Design and implement high-availability, monitoring, and performance optimization solutions.
+    - Experience with deployment and operational support for Redis, Jenkins, and Git for internal banking systems.
+    - Develop automation using PowerShell & Bash for daily reports, health checks, and patching.
+    - Key Achievement: 99.9% system uptime for core banking support systems.
+    - Key Achievement: Implemented automation for system operations and patch management.
+    - Key Achievement: Optimized annual IT infrastructure operating costs while maintaining service quality.
 
 - company:
-    name: Truyền Thông Đất Việt VAC
+    name: Dat Viet VAC Group Holding
     url: "https://datvietvac.vn"
-    location: TP. Hồ Chí Minh
+    location: Ho Chi Minh city
     logo: "/images/sections/experiences/datviet.jpg"
   positions:
-  - designation: Chuyên viên IT
-    start: Tháng 10/2010 đến tháng 12/2017
+  - designation: IT Specialist
+    start: 2010 
+    end: 2017
     responsibilities:
-    - Xây dựng và duy trì hạ tầng IT toàn công ty.
-    - Đảm bảo an ninh mạng và backup dữ liệu.
+    - Administered Active Directory, Email systems, Wi-Fi, Panasonic PBX, CCTV.
+    - Operated and maintained network infrastructure for head office and branch offices.
+    - Provided end-user IT support and incident troubleshooting.
+    - Participated in infrastructure and system deployment projects.
 
 - company:
-    name: Công ty Cổ phần Nam Việt
-    location: TP. Hồ Chí Minh
+    name: Nam Viet Join Stock Company
+    location: Ho Chi Minh city
     logo: "/images/sections/experiences/namviet.jpg"
   positions:
-  - designation: Nhân viên IT
-    start: Tháng 6/2008 đến tháng 9/2010
+  - designation: IT Admin
+    start: 2008
+    end: 2010
     responsibilities:
-    - Quản trị hệ thống Windows Server và Linux.
-    - Triển khai VMware vSphere.
-    - Hỗ trợ người dùng và xử lý sự cố.
+    - Administered AD, File Server, Database, MDaemon Mail Server.
+    - Deployed and maintained internal company websites.
+    - Managed IT assets, procurement, and periodic system maintenance.
