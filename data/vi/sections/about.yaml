@@ -54,3 +54,18 @@ badges:
   name: Quản lý nhóm
   percentage: 90
   color: orange
+  
+- type: soft-skill-indicator
+  name: Giải quyết vấn đề
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Giao tiếp
+  percentage: 90
+  color: orange
+
+- type: soft-skill-indicator
+  name: Làm việc nhóm
+  percentage: 90
+  color: orange
