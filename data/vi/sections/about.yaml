@@ -26,6 +26,12 @@ socialLinks:
 - name: Điện thoại
   icon: "fas fa-phone"
   url: "+84 938 424440"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nguyen-viet-chi-thien-357751102/"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/thiennvc"
 
 # Nút download tài liệu
 resourceLinks:
