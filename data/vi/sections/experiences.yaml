@@ -1,16 +1,30 @@
+section:
+  name: Kinh nghiệm
+  id: experiences
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
 experiences:
 - company:
-    logo: "/images/sections/experiences/ocb.jpg"
     name: Ngân hàng TMCP Phương Đông OCB
     url: "https://www.ocb.com.vn/"
     location: TP. Hồ Chí Minh
+    logo: "/images/sections/experiences/ocb.jpg"
   positions:
-  - designation: Chuyên viên IT Operations Cao cấp
-    start: "2017"
-    end: "Hiện tại"
+  - designation: Chuyên viên Cao cấp IT Operations
+    start: Tháng 2/2017 đến nay
+    end: Hiện tại
     responsibilities:
-      - Quản lý và vận hành hạ tầng IT banking (Servers, Storage, Virtualization, Backup).
-      - Lãnh đạo nhóm IT Ops đảm bảo vận hành hệ thống 24/7 với SLA cao.
-      - Triển khai giải pháp ITSM/ITIL để tối ưu quy trình incident, problem, change management.
-      - Tự động hóa các tác vụ vận hành bằng scripting và công cụ monitoring.
-      - Phối hợp với các bộ phận khác trong các dự án nâng cấp hạ tầng và migration.
+    - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
+    - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync...).
+    - Triển khai và vận hành các ứng dụng ManageEngine (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
+    - Quản lý vận hành các nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, cluster) và hệ thống SAN/NAS.
+    - Quản lý vận hành cơ sở hạ tầng mạng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, VoIP).
+    - Đảm bảo bảo vệ dữ liệu với các giải pháp sao lưu Veeam, Veritas và băng từ.
+    - Quản lý cập nhật vá lỗi máy chủ, máy trạm định kỳ.
+    - Quản lý giám sát nhóm Dịch vụ & Hỗ trợ CNTT (>5 người).
+    - Quản lý vòng đời tài sản CNTT, lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
+    - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
+    - Tham gia & triển khai dự án (Redis, Kafka, Jenkins, Git, Jira, QLTS, di dời hạ tầng...).
+    - Tự động hóa bằng PowerShell/Bash phục vụ vận hành IT.
