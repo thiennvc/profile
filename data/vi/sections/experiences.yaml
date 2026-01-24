@@ -16,9 +16,9 @@ experiences:
     start: "2017"
     end: "Hiện tại"
     responsibilities:
-    - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
-    - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync).
-    - Triển khai và vận hành các ứng dụng ManageEngine vào tasks (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management).
+    - Quản lý vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
+    - Vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync).
+    - Triển khai vận hành các ứng dụng ManageEngine vào tasks (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management).
     - Vận hành nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, Clusters, HA) thực hiện phân bổ tài nguyên, giám sát, tối ưu hiệu năng.
     - Quản lý vận hành cơ sở hạ tầng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, Tổng đài VoIP).
     - Vận hành giám sát hệ thống lưu trữ SAN/NAS (DELL storage, Sysnology, Qnap), đảm bảo sao lưu dữ liệu định kỳ bằng tools(Veeam, Veritas và băng từ).
@@ -27,8 +27,8 @@ experiences:
     - Quản lý vòng đời tài sản CNTT (IT Asset Lifecycle), đánh giá nhà cung cấp, mua sắm thiết bị, quản lý tồn kho.
     - Theo dõi lập ngân sách công nghệ, xử lý chi phí hàng tháng, hằng năm.
     - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
-    - Tham gia & triển khai các dự án (Redis, Kafka, Jenkins, Git, CICD,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới).
-    - Viết sử dụng các Scripts/Bash tự động tạo xóa account/group theo yêu cầu từ HR, import data các hệ thống daily.
+    - Tham gia triển khai các dự án (Redis, Kafka, Jenkins, Git, CICD,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới).
+    - Viết sử dụng các Scripts Bash tự động tạo xóa account, group theo yêu cầu từ HR, import data các hệ thống daily.
 - company:
     name: Truyền Thông Đất Việc VAC
     url: "https://www.datvietvac.vn/"
