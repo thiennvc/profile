@@ -6,7 +6,7 @@ experiences:
     location: TP. Hồ Chí Minh
   positions:
   - designation: Chuyên viên IT Operations Cao cấp
-    start: "Tháng 2 2023"
+    start: "2017"
     end: "Hiện tại"
     responsibilities:
       - Quản lý và vận hành hạ tầng IT banking (Servers, Storage, Virtualization, Backup).
@@ -14,30 +14,3 @@ experiences:
       - Triển khai giải pháp ITSM/ITIL để tối ưu quy trình incident, problem, change management.
       - Tự động hóa các tác vụ vận hành bằng scripting và công cụ monitoring.
       - Phối hợp với các bộ phận khác trong các dự án nâng cấp hạ tầng và migration.
-
-- company:
-    logo: "/images/sections/experiences/datviet.jpg"
-    name: Truyền Thông Đất Việt VAC
-    url: "https://datvietvac.vn"
-    location: TP. Hồ Chí Minh
-  positions:
-  - designation: IT Manager
-    start: "Tháng 1 2015"
-    end: "Tháng 12 2022"
-    responsibilities:
-      - Quản lý đội ngũ IT gồm 10 thành viên.
-      - Xây dựng và duy trì hạ tầng IT cho toàn công ty.
-      - Đảm bảo an ninh mạng và backup dữ liệu.
-
-- company:
-    logo: "/images/sections/experiences/namviet.jpg"
-    name: Công ty cổ phần Nam Việt
-    location: TP. Hồ Chí Minh
-  positions:
-  - designation: Nhân viên IT
-    start: "Tháng 6/2008"
-    end: "Tháng 9/2010"
-    responsibilities:
-      - Quản trị hệ thống Windows Server và Linux.
-      - Triển khai và vận hành VMware vSphere.
-      - Hỗ trợ người dùng và khắc phục sự cố kỹ thuật.
