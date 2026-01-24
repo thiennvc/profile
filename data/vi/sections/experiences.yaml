@@ -18,13 +18,45 @@ experiences:
     responsibilities:
     - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
     - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync...).
-    - Triển khai và vận hành các ứng dụng ManageEngine (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
-    - Quản lý vận hành các nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, cluster) và hệ thống SAN/NAS.
+    - Triển khai và vận hành các ứng dụng ManageEngine vào tasks (AD360, ServiceDesk Plus, ADManager Pro, Endpoint Central, Asset Management...).
+    - Vận hành nền tảng ảo hóa (VMware ESXi, vCenter, vMotion, vSAN, Clusters, HA) thực hiện phân bổ tài nguyên, giám sát, tối ưu hiệu năng.
     - Quản lý vận hành cơ sở hạ tầng (LAN/WAN, tường lửa, VPN, Wi-Fi, Camera, CCTV, Tổng đài VoIP).
-    - Đảm bảo sao lưu dữ liệu định kỳ Veeam, Veritas và băng từ.
-    - Quản lý cập nhật vá lỗi máy chủ, máy trạm định kỳ.
-    - Quản lý giám sát team Dịch vụ & Hỗ trợ công nghệ (số lượng trên 5 IT).
-    - Quản lý vòng đời/phân bổ/bảo trì tài sản công nghệ, lập kế hoạch ngân sách cơ sở hạ tầng hàng năm.
+    - Vận hành giám sát hệ thống lưu trữ SAN/NAS (DELL storage, Sysnology, Qnap), đảm bảo sao lưu dữ liệu định kỳ bằng tools(Veeam, Veritas và băng từ).
+    - Triển khai vận hành cập nhật vá lỗi máy chủ, máy trạm định kỳ.
+    - Lead đội IT Service & Support (>5 IT), bao gồm phân công và giám sát công việc, training, đánh giá hiệu suất, xử lý escalation và đảm bảo SLA vận hành.
+    - Quản lý vòng đời tài sản CNTT (IT Asset Lifecycle), đánh giá nhà cung cấp, mua sắm thiết bị, quản lý tồn kho.
+    - Theo dõi lập ngân sách công nghệ, xử lý chi phí hàng tháng, hằng năm.
     - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
-    - Tham gia & triển khai dự án (như: Redis, Kafka, Jenkins, Git,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới...).
-    - Tự động hóa bằng PowerShell/Bash tạo xóa account hệ thống theo yêu cầu từ HR.
+    - Tham gia & triển khai các dự án (như: Redis, Kafka, Jenkins, Git, CICD,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới...).
+    - Viết sử dụng các Scripts/Bash tự động tạo xóa account/group theo yêu cầu từ HR, import data các hệ thống daily.
+- company:
+    name: Truyền Thông Đất Việc VAC
+    url: "https://www.datvietvac.vn/"
+    location: TP. Hồ Chí Minh
+    logo: "/images/sections/experiences/datviet.jpg"
+  positions:
+  - designation: Chuyên viên IT
+    start: "2010"
+    end: "2017"
+    responsibilities:
+    - Quản trị Active Directory, hệ thống Email, Wi-Fi, tổng đài Panasonic PBX và hệ thống CCTV; đảm bảo vận hành ổn định, phân quyền truy cập, giám sát và xử lý sự cố.
+    - Vận hành và bảo trì hạ tầng mạng cho trụ sở chính và các chi nhánh (LAN/WAN, Switch, Wi-Fi)
+    - Cung cấp hỗ trợ IT cho người dùng cuối, tiếp nhận & xử lý sự cố, hướng dẫn sử dụng và cải thiện trải nghiệm người dùng nội bộ.
+    - Tham gia triển khai các dự án hạ tầng CNTT và triển khai hệ thống mới (network, server, ứng dụng), bao gồm lắp đặt, cấu hình, kiểm thử và bàn giao vận hành.
+    - Phối hợp với nhà cung cấp, đơn vị thi công và các bộ phận liên quan trong hoạt động triển khai, bảo trì
+- company:
+    name: Công ty Cổ phần Nam Việt
+    url: "https://www.namvietcorp.com.vn/"
+    location: TP. Hồ Chí Minh
+    logo: "/images/sections/experiences/namviet.jpg"
+  positions:
+  - designation: Nhân viên IT
+    start: "2008"
+    end: "2010"
+    responsibilities:
+    - Quản trị vận hành hệ thống máy móc thiết bị công nghệ
+    - Quản lý máy chủ, Mail, File server (cấp phát tạo xóa, đảm bảo hoạt động ổn định, phân quyền truy cập, tích hợp bảo mật và sao lưu dữ liệu)
+    - Triển khai, vận hành và bảo trì các website (cấu hình hosting/domain, cập nhật nội dung)
+    - Quản lý mua sắm và bảo trì các thiết bị công nghệ hàng năm.
+    - Phối hợp với các phòng ban để hỗ trợ yêu cầu CNTT
+    
