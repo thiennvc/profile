@@ -13,8 +13,8 @@ experiences:
     logo: "/images/sections/experiences/ocb.jpg"
   positions:
   - designation: Chuyên viên Cao cấp IT Operations
-    start: Tháng 2/2017 đến nay
-    end: Hiện tại
+    start: "2017"
+    end: "Hiện tại"
     responsibilities:
     - Quản lý và vận hành cơ sở hạ tầng CNTT doanh nghiệp trên toàn trụ sở chính và các chi nhánh.
     - Quản trị vận hành các hệ thống máy chủ (AD, GPO, DNS, DHCP, Mail Exchange, IIS web, SharePoint, MS365, Lync...).
