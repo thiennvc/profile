@@ -23,7 +23,7 @@ languages:
   vi:
     languageCode: vi
     languageName: Tiếng Việt
-    title: "Nguyễn Việt Chí Thiện"
+    title: "Nguyễn Viết Chí Thiện"
     weight: 2
 
 defaultContentLanguage: en
