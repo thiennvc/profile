@@ -25,10 +25,11 @@ experiences:
     - Triển khai vận hành cập nhật vá lỗi máy chủ, máy trạm định kỳ.
     - Lead đội IT Service (trên 5 IT), bao gồm phân công và giám sát công việc, training, đánh giá hiệu suất, xử lý escalation và đảm bảo SLA vận hành.
     - Quản lý vòng đời tài sản CNTT (IT Asset Lifecycle), đánh giá nhà cung cấp, mua sắm thiết bị, quản lý tồn kho.
+    - Lên kế hoạch và thực hiện bảo trì máy móc thiết bị định kỳ. 
     - Theo dõi lập ngân sách công nghệ, xử lý chi phí hàng tháng, hằng năm.
     - Thiết kế và triển khai các giải pháp khả dụng cao, giám sát và tối ưu hiệu suất.
-    - Tham gia triển khai các dự án (Redis, Kafka, Jenkins, Git, CICD,ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới).
-    - Viết sử dụng các Scripts Bash tự động tạo xóa account, group theo yêu cầu từ HR, import data các hệ thống daily.
+    - Tham gia triển khai các dự án (Redis, Kafka, Jenkins, Git, CICD, ManageEngine ServiceDesk, Quản lý tài sản, Di dời hạ tầng máy chủ và mạng lưới).
+    - Viết sử dụng các Scripts Bash tự động tạo xóa account, phân quyền theo yêu cầu từ HR, import data các hệ thống daily.
 - company:
     name: Truyền Thông Đất Việc VAC
     url: "https://www.datvietvac.vn/"
