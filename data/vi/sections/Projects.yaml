@@ -10,8 +10,8 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "Tất cả"
+- name: Tất cả
+  filter: "all"
 - name: Chuyên nghiệp
   filter: "professional"
 - name: Học thuạt
