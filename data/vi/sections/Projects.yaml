@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Flexsaving  NeoCD
+  logo: /images/sections/projects/tensorflow.png
+  role: DevOpt
+  timeline: "Dec 2026 - Present"
+  #repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: Configure and deploy systems such as Redis, Kafka, API extension systems, deploy/update Pods services on Jenkins, etc.
+  tags: ["Dev", "Operation"]
+
+- name: ManageEngine Services Desk Plus
+  role: Team Lead
+  timeline: "Sep 2019 - Oct 2020"
+  #url: "https://hotro.m-ocb.com.vn"
+  summary: Compile catalogs and SLAs, perform functional test cases, monitor request processing, and configure system features.
+  tags: ["admin","monitor","compliance"]
+
+- name: Asset management
+  logo: /images/sections/projects/no-code.png
+  role: Admin
+  timeline: "Sep 2021 - Dec 2021"
+  #url: ""
+  summary: Building asset management, install and deploy the system on the Ubuntu/Redhat Docker platform, setup up asset functions, establish asset cataloge, import data, grant user permissions, backup the system, etc.
+  tags: ["admin", "compliance","design"]
