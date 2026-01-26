@@ -24,7 +24,7 @@ projects:
 - name: Flexsaving  NeoCD
   logo: /images/sections/projects/tensorflow.png
   role: DevOpt
-  timeline: "Dec 2026 - Present"
+  timeline: "Sep 2025 - Dec 2025"
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: "Tham gia triển khai hệ thống core Flexsaving hệ thống Redis, Kafka, API Gateway, update các Pods trên nền tảng K8s Jenkins, đóng gói rfc Git Pilot/Prod. Phối hợp các phòng ban giám sát, fix lỗi hệ thống ổn định, khả năng mở rộng và hiệu năng cao."
