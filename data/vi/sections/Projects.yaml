@@ -27,20 +27,20 @@ projects:
   timeline: "Dec 2026 - Present"
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Configure and deploy systems such as Redis, Kafka, API extension systems, deploy/update Pods services on Jenkins, etc.
-  tags: ["Dev", "Operation"]
+  summary: Tham gia triển khai, cấu hình core Flexsaving (như: hệ thống Redis, Kafka, API (API Gateway), cập nhật các dịch vụ Pod trên nền tảng K8s thông qua Jenkins (build, deploy, update services), đóng gói rfc Git pilot/Prod. Phối hợp giữa các phòng ban giám sát, fix lỗi nhằm đảm bảo hệ thống ổn định, khả năng mở rộng và hiệu năng cao.
+  tags: ["Triên khai", "K8s", "Docker", "Kafka", "Redis", "Jenkin"]
 
-- name: ManageEngine Services Desk Plus
+- name: Quản lý dịch vụ CNTT (ITSM) Services Desk
   role: Team Lead
   timeline: "Sep 2019 - Oct 2020"
   #url: "https://hotro.m-ocb.com.vn"
-  summary: Compile catalogs and SLAs, perform functional test cases, monitor request processing, and configure system features.
-  tags: ["admin","monitor","compliance"]
+  summary: Tham gia triển khai và chuẩn hóa danh mục dịch vụ (Service Catalog, SLA), thực hiện kiểm thử chức năng (Functional) theo quy trình ITSM, giám sát và theo dõi quá trình gửi và xử lý yêu cầu/hỗ trợ (Ticket Lifecycle), điều phối và hỗ trợ đội ngũ vận hành trong quá trình triển khai và sử dụng hệ thống, tài liệu hóa sử dụng người dùng.
+  tags: ["Triển khai","Giám sát","Tuân thủ". "Đào tạo"]
 
-- name: Asset management
+- name: Quản lý tài sản
   logo: /images/sections/projects/no-code.png
   role: Admin
   timeline: "Sep 2021 - Dec 2021"
   #url: ""
-  summary: Building asset management, install and deploy the system on the Ubuntu/Redhat Docker platform, setup up asset functions, establish asset cataloge, import data, grant user permissions, backup the system, etc.
-  tags: ["admin", "compliance","design"]
+  summary: Xây dựng hệ thống quản lý tài sản (Asset Management System), cài đặt và triển khai hệ thống trên nền tảng Docker sử dụng OS Ubuntu/RedHat, thiết lập các chức năng: danh mục tài sản, quy trình tài sản, thực hiện nhập và đồng bộ dữ liệu, phân quyền, quản lý người dùng, tài liệu hóa và đào tạo.
+  tags: ["Thiết kế", "Triển  khai","Tuân thủ". "Đào tạo"]
