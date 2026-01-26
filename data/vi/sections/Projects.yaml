@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Dự án
   id: projects
   enable: true
   weight: 5
