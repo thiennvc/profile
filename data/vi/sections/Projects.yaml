@@ -27,14 +27,14 @@ projects:
   timeline: "Dec 2026 - Present"
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Tham gia triển khai hệ thống core Flexsaving hệ thống Redis, Kafka, API Gateway, update các Pods trên nền tảng K8s Jenkins, đóng gói rfc Git Pilot/Prod. Phối hợp các phòng ban giám sát, fix lỗi hệ thống ổn định, khả năng mở rộng và hiệu năng cao.
+  summary: "Tham gia triển khai hệ thống core Flexsaving hệ thống Redis, Kafka, API Gateway, update các Pods trên nền tảng K8s Jenkins, đóng gói rfc Git Pilot/Prod. Phối hợp các phòng ban giám sát, fix lỗi hệ thống ổn định, khả năng mở rộng và hiệu năng cao."
   tags: ["Triên khai", "K8s", "Docker", "Kafka", "Redis", "Jenkin", "Git"]
 
 - name: Quản lý dịch vụ CNTT (ITSM) Services Desk
   role: Team Lead
   timeline: "Sep 2019 - Oct 2020"
   #url: "https://hotro.m-ocb.com.vn"
-  summary: Tham gia triển khai hệ thống, chuẩn hóa danh mục dịch vụ Service Catalog, SLA, testcase các chức năng theo quy trình ITSM, giám sát quá trình xử lý Ticket, điều phối và hỗ trợ đội ngũ vận hành triển khai, tài liệu hóa sử dụng.
+  summary: "Tham gia triển khai hệ thống, chuẩn hóa danh mục dịch vụ Service Catalog, SLA, testcase các chức năng theo quy trình ITSM, giám sát quá trình xử lý Ticket, điều phối và hỗ trợ đội ngũ vận hành triển khai, tài liệu hóa sử dụng."
   tags: ["Triển khai", "Giám sát", "Đào tạo"]
 
 - name: Quản lý tài sản
@@ -42,5 +42,5 @@ projects:
   role: Admin
   timeline: "Sep 2021 - Dec 2021"
   #url: ""
-  summary: Xây dựng hệ thống quản lý tài sản (Asset Management System), cài đặt và triển khai hệ thống trên nền tảng Docker sử dụng OS Ubuntu/RedHat, thiết lập các chức năng: danh mục tài sản, quy trình tài sản, thực hiện nhập và đồng bộ dữ liệu, phân quyền, quản lý người dùng, tài liệu hóa và đào tạo.
+  summary: "Xây dựng hệ thống quản lý tài sản (Asset Management System), cài đặt và triển khai hệ thống trên nền tảng Docker sử dụng OS Ubuntu/RedHat, thiết lập các chức năng: danh mục tài sản, quy trình tài sản, thực hiện nhập và đồng bộ dữ liệu, phân quyền, quản lý người dùng, tài liệu hóa và đào tạo."
   tags: ["Thiết kế", "Triển khai", "Đào tạo"]
