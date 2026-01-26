@@ -27,14 +27,14 @@ projects:
   timeline: "Dec 2026 - Present"
   #repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Tham gia triển khai, cấu hình core Flexsaving (hệ thống Redis, Kafka, API (API Gateway), cập nhật các dịch vụ Pod trên nền tảng K8s thông qua Jenkins (build, deploy, update services), đóng gói rfc Git pilot/Prod. Phối hợp giữa các phòng ban giám sát, fix lỗi nhằm đảm bảo hệ thống ổn định, khả năng mở rộng và hiệu năng cao.
+  summary: Tham gia triển khai hệ thống, cấu hình core Flexsaving (hệ thống Redis, Kafka, API Gateway, cập nhật các Pods trên nền tảng K8s thông qua Jenkins, đóng gói rfc Git pilot/Prod. Phối hợp giữa các phòng ban giám sát, fix lỗi nhằm đảm bảo hệ thống ổn định, khả năng mở rộng và hiệu năng cao.
   tags: ["Triên khai", "K8s", "Docker", "Kafka", "Redis", "Jenkin"]
 
 - name: Quản lý dịch vụ CNTT (ITSM) Services Desk
   role: Team Lead
   timeline: "Sep 2019 - Oct 2020"
   #url: "https://hotro.m-ocb.com.vn"
-  summary: Tham gia triển khai và chuẩn hóa danh mục dịch vụ (Service Catalog, SLA), thực hiện kiểm thử chức năng (Functional) theo quy trình ITSM, giám sát và theo dõi quá trình gửi và xử lý yêu cầu/hỗ trợ (Ticket Lifecycle), điều phối và hỗ trợ đội ngũ vận hành trong quá trình triển khai và sử dụng hệ thống, tài liệu hóa sử dụng người dùng.
+  summary: Tham gia triển khai hệ thống, chuẩn hóa danh mục dịch vụ Service Catalog, SLA, thực hiện kiểm thử chức năng theo quy trình ITSM, giám sát và theo dõi quá trình gửi và xử lý yêu cầu/hỗ trợ Ticket, điều phối và hỗ trợ đội ngũ vận hành trong quá trình triển khai và sử dụng hệ thống, tài liệu hóa sử dụng người dùng.
   tags: ["Triển khai","Giám sát","Tuân thủ". "Đào tạo"]
 
 - name: Quản lý tài sản
