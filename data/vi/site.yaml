@@ -1,11 +1,5 @@
 # Thông báo bản quyền
-copyright: © 2026 Nguyễn Viết Chí Thiện.
-
-# Tuyên bố miễn trừ trách nhiệm cho footer. Đảm bảo bạn đã set "params.footer.disclaimer.enable: true" trong file `hugo.yaml`.
-disclaimer: "Theme này được phát hành theo giấy phép MIT. Vì vậy, bạn có thể sử dụng nó cho mục đích phi thương mại, thương mại hoặc cá nhân.
-Bạn có thể chỉnh sửa hoặc phân phối theme mà không cần xin phép tác giả.
-Tuy nhiên, tác giả theme không cung cấp bất kỳ bảo hành nào hoặc chịu trách nhiệm pháp lý cho bất kỳ vấn đề nào với theme."
-
+copyright: © 2026 Luke Nguyễn.
 # Mô tả meta cho website. Giúp công cụ tìm kiếm tìm thấy website của bạn.
 description: Portfolio và CV của Nguyễn Viết Chí Thiện - Chuyên gia IT Operations.
 
