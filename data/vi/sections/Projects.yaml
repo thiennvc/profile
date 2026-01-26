@@ -14,7 +14,7 @@ buttons:
   filter: "all"
 - name: Chuyên nghiệp
   filter: "professional"
-- name: Học thuạt
+- name: Học thuật
   filter: "academic"
 
 # your projects
