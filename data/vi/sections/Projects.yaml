@@ -11,13 +11,11 @@ section:
 # filter buttons
 buttons:
 - name: All
-  filter: "all"
-- name: Professional
+  filter: "Tất cả"
+- name: Chuyên nghiệp
   filter: "professional"
-- name: Academic
+- name: Học thuạt
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
 
 # your projects
 projects:
