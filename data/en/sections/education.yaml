@@ -16,10 +16,10 @@ degrees:
     url: "#"
     # logo: /images/sections/education/university.jpg
 
-- name: NIIT College
+- name: NIIT International Institute of Information Technology
   icon: fa-university
   institution:
-    name: NIIT
+    name: NIIT International Institute of Information Technology
     url: "#"
 
 - name: Professional Certifications
