@@ -18,12 +18,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Nguyen Viet Chi Thien - Senior Ops Engineer"
+    title: "Nguyen Viet Chi Thien - Ops Engineer"
     weight: 1
   vi:
     languageCode: vi
     languageName: Tiếng Việt
-    title: "Nguyễn Viết Chí Thiện - Kỹ sư Cao cấp Vận hành"
+    title: "Nguyễn Viết Chí Thiện - Kỹ sư hệ thống"
     weight: 2
 
 defaultContentLanguage: en
